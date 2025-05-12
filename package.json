@@ -14,7 +14,9 @@
   "type": "commonjs",
   "devDependencies": {
     "@eslint/js": "^9.25.1",
+    "@faker-js/faker": "^8.0.2",
     "cypress": "^12.15.0",
+    "cypress-mailosaur": "^2.13.0",
     "eslint": "^8.57.1",
     "eslint-plugin-cypress": "^2.13.3",
     "globals": "^16.0.0"
